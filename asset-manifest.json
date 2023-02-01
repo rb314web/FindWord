@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/find-word/static/css/main.ecbb8ee7.css",
+    "main.js": "/find-word/static/js/main.af7ac0d3.js",
+    "static/js/787.88b0318b.chunk.js": "/find-word/static/js/787.88b0318b.chunk.js",
+    "index.html": "/find-word/index.html",
+    "main.ecbb8ee7.css.map": "/find-word/static/css/main.ecbb8ee7.css.map",
+    "main.af7ac0d3.js.map": "/find-word/static/js/main.af7ac0d3.js.map",
+    "787.88b0318b.chunk.js.map": "/find-word/static/js/787.88b0318b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbb8ee7.css",
+    "static/js/main.af7ac0d3.js"
+  ]
+}
