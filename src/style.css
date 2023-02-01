@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  button {
+    padding: 20px 60px;
+    border: none;
+    background-color: #333;
+    color: aliceblue;
+    font-size: 25px;
+    cursor: pointer;
+  }
+  
+  .square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 5px;
+  }
+  
+  .square span {
+    visibility: hidden;
+  }
+  
+  .letterbox {
+    display: flex;
+  }
+  
+  input {
+    height: 70px;
+    width: 70px;
+    margin: 20px;
+    font-size: 35px;
+  }
+  
+  .square[visible="visible"] {
+    background-color: green;
+  }
+  
+  .square[visible="visible"] span {
+    visibility: visible;
+  }
+  
