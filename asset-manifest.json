@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FindWord/static/css/main.20d196a8.css",
-    "main.js": "/FindWord/static/js/main.bd64238c.js",
+    "main.css": "/FindWord/static/css/main.d04e35c9.css",
+    "main.js": "/FindWord/static/js/main.27149ef9.js",
     "static/js/787.88b0318b.chunk.js": "/FindWord/static/js/787.88b0318b.chunk.js",
     "index.html": "/FindWord/index.html",
-    "main.20d196a8.css.map": "/FindWord/static/css/main.20d196a8.css.map",
-    "main.bd64238c.js.map": "/FindWord/static/js/main.bd64238c.js.map",
+    "main.d04e35c9.css.map": "/FindWord/static/css/main.d04e35c9.css.map",
+    "main.27149ef9.js.map": "/FindWord/static/js/main.27149ef9.js.map",
     "787.88b0318b.chunk.js.map": "/FindWord/static/js/787.88b0318b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20d196a8.css",
-    "static/js/main.bd64238c.js"
+    "static/css/main.d04e35c9.css",
+    "static/js/main.27149ef9.js"
   ]
 }
