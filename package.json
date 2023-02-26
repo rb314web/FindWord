@@ -2,7 +2,7 @@
   "name": "find-word",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rb314web.github.io/find-word/",
+  "homepage": "https://rb314web.github.io/FindWord/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
